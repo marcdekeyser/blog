@@ -1,5 +1,4 @@
 ---
-title: Github Pages Test
 layout: default
 tags: home
 ---
